@@ -1,0 +1,1 @@
+{"hosts": {"EU-CLUSTER": {"title": "Eu cluster discription", "host": "eu1-vm-host", "user": "euuser", "result": "Unable to execute the commands", "error": "Temporary failure in name resolution"}, "NA-CLUSTER": {"title": "Na cluster description", "host": "na1-vm-host", "user": "nauser", "result": "Unable to execute the commands", "error": "Temporary failure in name resolution"}}}
